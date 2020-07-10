@@ -21,6 +21,7 @@ public class Main {
     }
 
     static void printDog(Dog[] arr){
+        System.out.println("____________________________________");
         for (Dog dog: arr) {
             System.out.println(dog);
         }
