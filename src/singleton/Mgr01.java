@@ -13,8 +13,6 @@ public class Mgr01 {
         System.out.println("1111111");
     }
 
-    ;
-
     public static Mgr01 getInstance() {
         return INSTANCE;
     }

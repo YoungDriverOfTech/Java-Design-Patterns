@@ -9,8 +9,6 @@ public class Mgr06 {
         System.out.println("1111111");
     }
 
-    ;
-
     public static Mgr06 getInstance() {
         if (INSTANCE == null){
             synchronized (Mgr06.class){
